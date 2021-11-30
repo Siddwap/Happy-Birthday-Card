@@ -191,7 +191,7 @@ body::after {
     display: inline-block;
     overflow-y: hidden;
     height: 20vh;
-    width:70vw
+    width:80vw
 }
 
 .text-frame p {
