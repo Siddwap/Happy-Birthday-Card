@@ -190,7 +190,7 @@ body::after {
     transform: translateY(30%);
     display: inline-block;
     overflow-y: hidden;
-    height: 40vh;
+    height: 20vh;
     width:70vw
 }
 
