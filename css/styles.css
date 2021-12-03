@@ -167,7 +167,7 @@ body::after {
 .HBD-text {
     position: absolute; 
     display: inline-block;
-    width: 65%;
+    width: 85%;
     /* height: 100%; */
     top: 85%;
     left: 50%;
